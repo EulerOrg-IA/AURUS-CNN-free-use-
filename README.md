@@ -1,3 +1,3 @@
-#AURUS-CNN-free-use-                       
+AURUS 😉                   
 
 CNN Explainer is an interactive visualization system for non-experts to learn about Convolutional Neural Networks (CNNs). Created in a research collaboration between Georgia Tech and Oregon State University, the project includes a live demo and is available under the MIT License.
